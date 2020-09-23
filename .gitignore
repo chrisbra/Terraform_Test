@@ -1,2 +1,3 @@
 # ignore aws provider file (too large)
-.terraform\plugins\registry.terraform.io\hashicorp\aws\2.70.0\windows_amd64\
+.terraform/plugins/registry.terraform.io/hashicorp/aws/2.70.0/windows_amd64/
+.terraform.tfstate*
